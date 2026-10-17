@@ -1,4 +1,4 @@
-# EyeCode Research Entry Task — Video Imitation 2
+# EyeCode Research Entry Task - Video Imitation 2
 
 Submission: source code, technical report, and demo videos.
 

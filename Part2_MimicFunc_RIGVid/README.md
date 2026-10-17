@@ -1,4 +1,4 @@
-# Part 2 — Video Imitation: MimicFunc và RIGVid
+# Part 2 - Video Imitation: MimicFunc và RIGVid
 
 | Paper | Venue | Code gốc | Trạng thái tái lập |
 |---|---|---|---|
