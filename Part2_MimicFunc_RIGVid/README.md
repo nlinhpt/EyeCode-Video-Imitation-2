@@ -12,7 +12,7 @@
 
 Cả hai notebook chạy trên Google Colab (GPU).
 
-### MimicFunc — `notebooks/MimicFunc_reproduction.ipynb`
+### MimicFunc - `notebooks/MimicFunc_reproduction.ipynb`
 1. Mở notebook trên Colab, chọn runtime GPU.
 2. Chạy lần lượt các ô. Notebook tự clone `FUNCTO_public` và cài thư viện.
 3. `RUN_MODE = "dino"` thay GPT-4o bằng DINOv2 (không cần key). `RUN_MODE = "gpt4o"` cần `OPENAI_API_KEY` trong Colab secrets.
@@ -20,7 +20,7 @@ Cả hai notebook chạy trên Google Colab (GPU).
 
 Kết quả (`abl_dino_k8_sam`): Mask IoU tool/target 0.952/0.994, sai số quỹ đạo 0.023 m / 36.17°, Pour proxy đạt. Các cấu hình mask hình hộp (`*_box`) chọn nhầm keypoint.
 
-### RIGVid — `notebooks/Rigvid.ipynb`
+### RIGVid - `notebooks/Rigvid.ipynb`
 Notebook cài RollingDepth và FoundationPose rồi chạy pipeline. Môi trường chưa cài thành công nên chưa có kết quả tái lập; số liệu trong báo cáo lấy từ paper.
 
 ## Ghi chú
