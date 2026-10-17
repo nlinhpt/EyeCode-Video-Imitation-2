@@ -1,0 +1,43 @@
+# EyeCode Research Entry Task — Video Imitation 2
+
+Submission: source code, technical report, and demo videos.
+
+| Part | Nội dung | Thư mục |
+|---|---|---|
+| 1 | ROSOrin Pro Gazebo simulation (SLAM, map, navigation) | [`Part1_ROSOrin_Pro/`](Part1_ROSOrin_Pro) |
+| 2 | Đọc, so sánh và tái hiện MimicFunc (CoRL 2025) và RIGVid (ICLR 2026) | [`Part2_MimicFunc_RIGVid/`](Part2_MimicFunc_RIGVid) |
+
+## Demo videos
+
+> **TODO:** điền link sau khi quay xong.
+
+| Video | Link |
+|---|---|
+| Part 1 — ROSOrin Pro simulation demo (3–5 phút) | _(link)_ |
+| Part 2 — MimicFunc reproduction demo | _(link)_ |
+
+## Cấu trúc repo
+
+```
+.
+├── README.md
+├── Part1_ROSOrin_Pro/
+│   ├── README.md          # setup, lệnh chạy, vấn đề gặp phải
+│   ├── src/               # package / launch files
+│   ├── config/            # cấu hình SLAM, navigation
+│   ├── maps/              # map đã lưu (.pgm/.yaml)
+│   ├── demo/              # ảnh chụp, link video
+│   └── report/            # báo cáo ngắn Part 1
+└── Part2_MimicFunc_RIGVid/
+    ├── README.md          # hướng dẫn tái lập
+    ├── notebooks/
+    │   ├── MimicFunc_reproduction.ipynb
+    │   └── Rigvid.ipynb
+    ├── report/
+    │   └── Report_part2_MimicFunc_and_RIGVid.pdf
+    └── results/           # ảnh/số liệu xuất ra
+```
+
+## Báo cáo kỹ thuật
+
+Báo cáo 5–7 trang bao gồm cả hai Part (từ `Part1_ROSOrin_Pro/report/` và `Part2_MimicFunc_RIGVid/report/`).
