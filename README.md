@@ -14,7 +14,7 @@ Submission: source code, technical report, and demo videos.
 | Video | Link |
 |---|---|
 | Part 1 - ROSOrin Pro simulation demo | https://youtu.be/5-m_gu8l4IE|
-| Part 2 - MimicFunc reproduction demo | _(link)_ |
+| Part 2 - MimicFunc reproduction demo | https://youtu.be/9rYkmEh90qs|
 
 ## Cấu trúc repo
 
@@ -26,7 +26,7 @@ Submission: source code, technical report, and demo videos.
 │   ├── src/               # package / launch files
 │   ├── config/            # cấu hình SLAM, navigation
 │   ├── maps/              # map đã lưu (.pgm/.yaml)
-│   ├── demo/              # ảnh chụp, link video
+│   ├── demo/              # ảnh chụp, link videos
 │   └── report/            # báo cáo ngắn Part 1
 └── Part2_MimicFunc_RIGVid/
     ├── README.md          # hướng dẫn tái lập
