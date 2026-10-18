@@ -15,13 +15,5 @@ Tài liệu chính thức: https://wiki.hiwonder.com/projects/rosorin-pro/en/lat
 - [Done] Lưu map, điều hướng tự động
 - [ ] Demo single-goal và multi-point navigation
 
-## Lệnh chạy
-```bash
-# TODO: điền các lệnh thực tế
-```
-
-## Vấn đề gặp phải và cách giải quyết
-_(điền)_
-
 ## Demo
 Xem link ở [README gốc](../README.md#demo-videos).
