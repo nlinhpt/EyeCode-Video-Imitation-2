@@ -13,7 +13,7 @@ Submission: source code, technical report, and demo videos.
 
 | Video | Link |
 |---|---|
-| Part 1 - ROSOrin Pro simulation demo (3–5 phút) | https://youtu.be/5-m_gu8l4IE|
+| Part 1 - ROSOrin Pro simulation demo | https://youtu.be/5-m_gu8l4IE|
 | Part 2 - MimicFunc reproduction demo | _(link)_ |
 
 ## Cấu trúc repo
