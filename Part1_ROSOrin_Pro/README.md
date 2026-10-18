@@ -5,7 +5,7 @@ Tài liệu chính thức: https://wiki.hiwonder.com/projects/rosorin-pro/en/lat
 Đang hoàn thiện báo cáo và video demo sẽ update trong hôm nay.
 
 ## Môi trường
-- Ubuntu: _(điền)_ · ROS: _(Melodic / Humble)_ · Gazebo: _(version)_
+- Ubuntu:  · ROS: _(Melodic / Humble)_ · Gazebo: _(version)_
 
 ## Việc đã làm
 - [Done] Dựng Gazebo simulation ROSOrin Pro
