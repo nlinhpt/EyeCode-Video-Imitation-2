@@ -9,7 +9,7 @@ Submission: source code, technical report, and demo videos.
 
 ## Demo videos
 
-> **TODO:** điền link sau khi quay xong.
+Video hơi ồn nên mọi người tắt tiếng trước khi mở.
 
 | Video | Link |
 |---|---|
